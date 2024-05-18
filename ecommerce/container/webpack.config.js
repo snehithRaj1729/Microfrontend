@@ -11,6 +11,7 @@ module.exports = {
             name: 'container',
             remotes: {
                 products: 'products@http://localhost:8081/remoteEntry.js'
+// products in the key before the url must be same as the key value of name in products webpack.config.js
             },
         }),
         new HtmlWebpackPlugin({
