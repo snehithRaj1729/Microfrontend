@@ -1,3 +1,6 @@
 ecommerce/container/node_modules/
 ecommerce/products/node_modules/
 ecommerce/cart/node_modules
+ecommerce/container/package-lock.json
+ecommerce/products/package-lock.json
+ecommerce/cart/package-lock.json
